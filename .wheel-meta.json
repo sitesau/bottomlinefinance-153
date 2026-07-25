@@ -1,0 +1,18 @@
+{
+  "wheel_id": 136,
+  "structure": "umbrella",
+  "slug": "bottomlinefinance-153",
+  "project": "private-lending-b-153",
+  "parent_t1_ref": "bottomlinefinance-001",
+  "node_role": "buffer",
+  "money_target": "bottomlinefinance.com.au",
+  "primary_kw": "private lending",
+  "intended_url": "https://aumedia.neocities.org/private-lending-b-153/index.html",
+  "links": [
+    {
+      "target_url": "https://private-lending-australia-guide-9fy.pages.dev/",
+      "anchor": "private lending",
+      "rel": "follow"
+    }
+  ]
+}
